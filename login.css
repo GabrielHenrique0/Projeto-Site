@@ -221,6 +221,7 @@ main {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.25);
     flex-grow: 1;
     max-width: 100%;
+    height: auto;
 }
 
 main {
@@ -346,7 +347,7 @@ main > article > h2{
 
 .entre{
     float: left;
-    margin-top: 150px;
+    margin-top: 50px;
 }
 
 .cadastre {
@@ -355,7 +356,7 @@ main > article > h2{
 
 .linhavertical {
     float: left;
-    height: 610px;/*Altura da linha*/
+    height: 370px;/*Altura da linha*/
     border-right: 1px solid;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
     padding-right: 115px;
 }
